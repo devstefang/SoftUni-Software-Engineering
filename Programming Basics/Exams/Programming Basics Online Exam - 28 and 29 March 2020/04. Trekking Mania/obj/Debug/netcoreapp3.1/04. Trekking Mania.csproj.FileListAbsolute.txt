@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.exe
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.deps.json
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.json
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.dll
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\bin\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.dll
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.pdb
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.genruntimeconfig.cache
+C:\Users\Илина\source\repos\Pb exam\04. Trekking Mania\obj\Debug\netcoreapp3.1\04. Trekking Mania.csprojAssemblyReference.cache

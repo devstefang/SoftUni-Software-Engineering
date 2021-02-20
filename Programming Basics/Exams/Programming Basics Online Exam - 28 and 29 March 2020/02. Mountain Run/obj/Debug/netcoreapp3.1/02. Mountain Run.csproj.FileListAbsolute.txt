@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.exe
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.deps.json
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.runtimeconfig.json
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.dll
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\bin\Debug\netcoreapp3.1\02. Mountain Run.pdb
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.dll
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.pdb
+C:\Users\Илина\source\repos\Pb exam\02. Mountain Run\obj\Debug\netcoreapp3.1\02. Mountain Run.genruntimeconfig.cache

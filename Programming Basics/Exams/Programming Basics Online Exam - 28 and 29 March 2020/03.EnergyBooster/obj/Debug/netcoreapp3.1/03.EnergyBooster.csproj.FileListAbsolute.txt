@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.exe
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.deps.json
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.json
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.dll
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+C:\Users\Илина\source\repos\Pb exam\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.genruntimeconfig.cache
