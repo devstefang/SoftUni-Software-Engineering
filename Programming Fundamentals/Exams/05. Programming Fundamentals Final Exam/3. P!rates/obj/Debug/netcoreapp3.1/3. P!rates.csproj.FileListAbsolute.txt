@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.exe
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.deps.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.runtimeconfig.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.dll
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\bin\Debug\netcoreapp3.1\3. P!rates.pdb
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.AssemblyInfo.cs
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.dll
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.pdb
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\3. P!rates\obj\Debug\netcoreapp3.1\3. P!rates.genruntimeconfig.cache

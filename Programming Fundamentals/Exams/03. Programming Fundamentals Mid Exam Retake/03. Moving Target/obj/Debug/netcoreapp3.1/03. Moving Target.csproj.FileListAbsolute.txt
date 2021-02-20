@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.exe
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.deps.json
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.json
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\Илина\source\repos\ExamPreparation\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.genruntimeconfig.cache

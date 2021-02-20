@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.exe
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.deps.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.runtimeconfig.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.dll
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\bin\Debug\netcoreapp3.1\2. Emoji Detector.pdb
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.AssemblyInfo.cs
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.dll
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.pdb
+C:\Users\Илина\source\repos\FirstExamPrepFundamentals\2. Emoji Detector\obj\Debug\netcoreapp3.1\2. Emoji Detector.genruntimeconfig.cache

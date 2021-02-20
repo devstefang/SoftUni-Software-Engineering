@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.exe
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.deps.json
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.runtimeconfig.json
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.dll
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\bin\Debug\netcoreapp3.1\2. Mirror words.pdb
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.AssemblyInfo.cs
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.dll
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.pdb
+C:\Users\Илина\source\repos\FundExam\2. Mirror words\obj\Debug\netcoreapp3.1\2. Mirror words.genruntimeconfig.cache

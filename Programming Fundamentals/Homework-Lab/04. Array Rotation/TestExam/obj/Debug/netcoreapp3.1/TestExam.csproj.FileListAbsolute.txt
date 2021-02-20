@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.exe
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.deps.json
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.runtimeconfig.json
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.dll
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\bin\Debug\netcoreapp3.1\TestExam.pdb
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.AssemblyInfo.cs
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.dll
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.pdb
+C:\Users\Илина\source\repos\04. Array Rotation\TestExam\obj\Debug\netcoreapp3.1\TestExam.genruntimeconfig.cache

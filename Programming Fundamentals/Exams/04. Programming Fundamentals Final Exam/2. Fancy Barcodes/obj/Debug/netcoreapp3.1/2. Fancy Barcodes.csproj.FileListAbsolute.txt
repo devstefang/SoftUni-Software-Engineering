@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.exe
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.deps.json
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.runtimeconfig.json
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.dll
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\bin\Debug\netcoreapp3.1\2. Fancy Barcodes.pdb
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.dll
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.pdb
+C:\Users\Илина\source\repos\FundamentalsExamPrep2\2. Fancy Barcodes\obj\Debug\netcoreapp3.1\2. Fancy Barcodes.genruntimeconfig.cache

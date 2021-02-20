@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.exe
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.deps.json
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.dll
+C:\Users\Илина\source\repos\Exam\Rnd\bin\Debug\netcoreapp3.1\Rnd.pdb
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.dll
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.pdb
+C:\Users\Илина\source\repos\Exam\Rnd\obj\Debug\netcoreapp3.1\Rnd.genruntimeconfig.cache

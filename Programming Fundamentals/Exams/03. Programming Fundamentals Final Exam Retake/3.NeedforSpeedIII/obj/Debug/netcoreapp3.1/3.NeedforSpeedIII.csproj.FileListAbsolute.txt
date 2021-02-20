@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.exe
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.deps.json
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.runtimeconfig.json
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.dll
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\bin\Debug\netcoreapp3.1\3.NeedforSpeedIII.pdb
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.AssemblyInfo.cs
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.dll
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.pdb
+C:\Users\Илина\source\repos\FundExam\3.NeedforSpeedIII\obj\Debug\netcoreapp3.1\3.NeedforSpeedIII.genruntimeconfig.cache

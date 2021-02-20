@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.exe
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.deps.json
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.runtimeconfig.json
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.dll
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\bin\Debug\netcoreapp3.1\06.Equal Sum.pdb
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.AssemblyInfo.cs
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.dll
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.pdb
+C:\Users\Илина\source\repos\04. Array Rotation\05. Top Integers\obj\Debug\netcoreapp3.1\06.Equal Sum.genruntimeconfig.cache

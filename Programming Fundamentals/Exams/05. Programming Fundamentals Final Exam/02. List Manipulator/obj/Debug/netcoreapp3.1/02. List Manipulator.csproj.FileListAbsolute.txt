@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.exe
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.deps.json
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.dll
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.pdb
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.dll
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.pdb
+C:\Users\Илина\source\repos\Exam\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.genruntimeconfig.cache
