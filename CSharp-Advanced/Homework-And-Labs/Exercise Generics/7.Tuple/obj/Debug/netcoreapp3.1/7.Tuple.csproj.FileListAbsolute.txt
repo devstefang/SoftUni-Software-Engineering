@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.exe
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.deps.json
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.json
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.dll
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.pdb
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.dll
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.pdb
+C:\Users\Илина\source\repos\Exercise Generics\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.genruntimeconfig.cache

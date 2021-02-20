@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.exe
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.deps.json
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.dll
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\bin\Debug\netcoreapp3.1\TheFightForGordon.pdb
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.dll
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.pdb
+C:\Users\Илина\source\repos\Exam20Feb\TheFightForGordon\obj\Debug\netcoreapp3.1\TheFightForGordon.genruntimeconfig.cache

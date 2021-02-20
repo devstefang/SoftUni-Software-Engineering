@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache

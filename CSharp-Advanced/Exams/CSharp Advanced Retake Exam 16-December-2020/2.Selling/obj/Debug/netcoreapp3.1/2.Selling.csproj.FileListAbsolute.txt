@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.AssemblyInfo.cs
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.exe
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.deps.json
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.runtimeconfig.json
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.dll
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\bin\Debug\netcoreapp3.1\2.Selling.pdb
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.dll
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.pdb
+C:\Users\Илина\source\repos\CSharp Advanced Retake Exam - 16 December 2020\2.Selling\obj\Debug\netcoreapp3.1\2.Selling.genruntimeconfig.cache

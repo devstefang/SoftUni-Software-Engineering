@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

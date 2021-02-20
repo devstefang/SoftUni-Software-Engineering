@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.exe
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.deps.json
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.runtimeconfig.json
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.dll
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\bin\Debug\netcoreapp3.1\1.Scheduling.pdb
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.AssemblyInfo.cs
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.dll
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.pdb
+C:\Users\Илина\source\repos\CSharp Advanced Exam - 25 October 2020\1.Scheduling\obj\Debug\netcoreapp3.1\1.Scheduling.genruntimeconfig.cache

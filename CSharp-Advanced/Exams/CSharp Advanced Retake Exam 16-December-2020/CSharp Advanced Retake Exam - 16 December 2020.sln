@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cooking", "01. Cooking\01. Cooking.csproj", "{BCC55FF6-59A3-48F1-8AC1-CFCC96DD15F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Selling", "2.Selling\2.Selling.csproj", "{8B032F08-0255-4F88-A5B8-8341F8BB7EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC55FF6-59A3-48F1-8AC1-CFCC96DD15F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC55FF6-59A3-48F1-8AC1-CFCC96DD15F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC55FF6-59A3-48F1-8AC1-CFCC96DD15F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC55FF6-59A3-48F1-8AC1-CFCC96DD15F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B032F08-0255-4F88-A5B8-8341F8BB7EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B032F08-0255-4F88-A5B8-8341F8BB7EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B032F08-0255-4F88-A5B8-8341F8BB7EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B032F08-0255-4F88-A5B8-8341F8BB7EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B644F3-69C6-4426-8D90-9B6E51DEB5E6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.exe
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.deps.json
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.dll
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\bin\Debug\netcoreapp3.1\2. Warships.pdb
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.dll
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.pdb
+C:\Users\Илина\source\repos\Exam20Feb\2. Warships\obj\Debug\netcoreapp3.1\2. Warships.genruntimeconfig.cache

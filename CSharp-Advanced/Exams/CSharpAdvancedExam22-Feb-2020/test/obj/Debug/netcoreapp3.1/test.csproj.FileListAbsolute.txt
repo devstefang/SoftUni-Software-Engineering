@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\Илина\source\repos\CSharpAdvancedExam22Feb2020\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

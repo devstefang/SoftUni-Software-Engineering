@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.exe
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.deps.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.runtimeconfig.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.dll
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\bin\Debug\netcoreapp3.1\03.Parking.pdb
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.dll
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.pdb
+C:\Users\Илина\source\repos\ExamPreparation-CShartAdvanced\03.Parking\obj\Debug\netcoreapp3.1\03.Parking.genruntimeconfig.cache
