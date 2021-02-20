@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.exe
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.deps.json
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.runtimeconfig.json
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.dll
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\bin\Debug\netcoreapp3.1\4.WildFarm.pdb
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.dll
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.pdb
+C:\Users\Илина\source\repos\ExercisesPolymorphism\4.WildFarm\obj\Debug\netcoreapp3.1\4.WildFarm.genruntimeconfig.cache
