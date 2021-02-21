@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+C:\Users\Илина\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache

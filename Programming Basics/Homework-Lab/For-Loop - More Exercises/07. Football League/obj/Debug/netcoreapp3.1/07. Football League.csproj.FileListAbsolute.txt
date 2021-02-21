@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.exe
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.deps.json
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.runtimeconfig.json
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.dll
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\bin\Debug\netcoreapp3.1\07. Football League.pdb
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.AssemblyInfo.cs
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.dll
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.pdb
+C:\Users\Илина\source\repos\For-Loop - More Exercises\07. Football League\obj\Debug\netcoreapp3.1\07. Football League.genruntimeconfig.cache

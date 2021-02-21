@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.exe
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.deps.json
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.dll
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\bin\Debug\netcoreapp3.1\06. Vet Parking.pdb
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.dll
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.pdb
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.genruntimeconfig.cache
+C:\Users\Илина\source\repos\Exam Preparation\05. Division Without Remainder\obj\Debug\netcoreapp3.1\06. Vet Parking.csprojAssemblyReference.cache

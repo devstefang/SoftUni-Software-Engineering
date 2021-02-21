@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.exe
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.deps.json
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.json
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.dll
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.pdb
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.dll
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.pdb
+C:\Users\Илина\source\repos\Exam Preparation\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.genruntimeconfig.cache
