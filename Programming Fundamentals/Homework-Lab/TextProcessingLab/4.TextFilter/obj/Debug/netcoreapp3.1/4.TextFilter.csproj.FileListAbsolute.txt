@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.exe
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.deps.json
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.json
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfo.cs
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\Илина\source\repos\TextProcessingLab\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.genruntimeconfig.cache

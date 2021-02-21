@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.exe
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.deps.json
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.json
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\bin\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\Илина\source\repos\TextProcessingExercise\03. Extract File\obj\Debug\netcoreapp3.1\04. Caesar Cipher.genruntimeconfig.cache

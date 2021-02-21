@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.exe
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.deps.json
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+C:\Users\Илина\source\repos\ListExercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.genruntimeconfig.cache

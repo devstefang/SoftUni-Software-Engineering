@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.exe
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.deps.json
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.json
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.dll
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.pdb
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfo.cs
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.dll
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.pdb
+C:\Users\Илина\source\repos\RegExExercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.genruntimeconfig.cache

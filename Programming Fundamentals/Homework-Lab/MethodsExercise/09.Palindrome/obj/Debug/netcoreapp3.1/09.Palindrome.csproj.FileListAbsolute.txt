@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.exe
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.deps.json
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.runtimeconfig.json
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.dll
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\bin\Debug\netcoreapp3.1\09.Palindrome.pdb
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.AssemblyInfo.cs
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.dll
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.pdb
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.genruntimeconfig.cache
+C:\Users\Илина\source\repos\MethodsExercise\09.Palindrome\obj\Debug\netcoreapp3.1\09.Palindrome.csprojAssemblyReference.cache
