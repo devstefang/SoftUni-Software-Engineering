@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+C:\Users\Илина\source\repos\LabMultidimensional Arrays\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.exe
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.deps.json
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.runtimeconfig.json
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.dll
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.pdb
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.AssemblyInfo.cs
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.dll
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.pdb
+C:\Users\Илина\source\repos\Exercises Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.genruntimeconfig.cache

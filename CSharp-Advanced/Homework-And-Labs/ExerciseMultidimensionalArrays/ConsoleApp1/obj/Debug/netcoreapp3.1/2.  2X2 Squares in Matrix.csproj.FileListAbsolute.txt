@@ -1,0 +1,13 @@
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.exe
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.deps.json
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.runtimeconfig.json
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.dll
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\bin\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.pdb
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.dll
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.pdb
+C:\Users\Илина\source\repos\ExerciseMultidimensionalArrays\ConsoleApp1\obj\Debug\netcoreapp3.1\2.  2X2 Squares in Matrix.genruntimeconfig.cache
