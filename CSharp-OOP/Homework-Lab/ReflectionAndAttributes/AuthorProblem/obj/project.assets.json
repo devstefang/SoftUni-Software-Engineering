@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\Stealer\\Stealer.csproj",
-      "projectName": "Stealer",
-      "projectPath": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\Stealer\\Stealer.csproj",
+      "projectUniqueName": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\AuthorProblem\\AuthorProblem.csproj",
+      "projectName": "AuthorProblem",
+      "projectPath": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\AuthorProblem\\AuthorProblem.csproj",
       "packagesPath": "C:\\Users\\Илина\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\Stealer\\obj\\",
+      "outputPath": "C:\\Users\\Илина\\Desktop\\SoftUni GitHub\\SoftUni-Software-Engineering\\CSharp-OOP\\Homework-Lab\\ReflectionAndAttributes\\AuthorProblem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Илина\\AppData\\Roaming\\NuGet\\NuGet.Config",

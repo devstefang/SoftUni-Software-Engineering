@@ -11,3 +11,16 @@ C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-O
 C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
 C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
 C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csprojAssemblyReference.cache
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\Илина\Desktop\SoftUni GitHub\SoftUni-Software-Engineering\CSharp-OOP\Homework-Lab\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
